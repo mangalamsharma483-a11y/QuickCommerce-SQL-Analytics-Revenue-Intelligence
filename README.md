@@ -7,7 +7,6 @@ A SQL Server-based analytics project built using Quick Commerce product data to 
 * SQL Server
 * T-SQL
 * SSMS
-* Power BI
 * Git & GitHub
 
 ## Key Features
