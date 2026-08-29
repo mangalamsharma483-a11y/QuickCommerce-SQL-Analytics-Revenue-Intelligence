@@ -1,0 +1,64 @@
+﻿name,mrp,discountPercent,availableQuantity,discountedSellingPrice,weightInGms,outOfStock,quantity
+Arden Eggs White,9700,0,4,9700,696,FALSE,12
+Arden Eggs White,6500,15,4,5500,348,FALSE,6
+Arden Eggs Brown,8500,7,4,7900,348,FALSE,6
+Godrej Real Good Chicken Whole Pre-Cut,30000,10,4,27000,1000,FALSE,1
+Zorabian Chicken Breast Boneless,14500,8,3,13300,250,FALSE,250
+Godrej Real Good Chicken Curry Cut,17500,9,3,15800,500,FALSE,500
+TGFC Chicken Curry Cut Fresh,24900,25,1,18600,500,FALSE,500
+Arden Desi Eggs,11000,13,4,9500,348,FALSE,6
+Godrej Real Good Chicken Breast Boneless,27500,9,6,24800,450,FALSE,450
+Fresh Chicken Boneless Cubes (Halal),21500,5,1,20400,500,FALSE,500
+Godrej Real Good Chicken Kheema,25500,9,3,23000,450,FALSE,450
+Suguna Sharp Egg ,7200,13,3,6200,348,FALSE,6
+TGFC Bombay Duck Whole Cleaned,31900,14,1,27400,500,FALSE,500
+Zorabian Pre Cut Chicken Skinless (Half),16500,0,1,16500,500,FALSE,500
+Godrej Real Good Chicken Drumstick ,26500,9,2,23900,500,FALSE,500
+Suguna Active - DHA,7200,13,4,6200,348,FALSE,6
+Godrej Real Good Chicken Marinated Lollipop ,20000,10,2,18000,580,FALSE,10
+Godrej Yummiez Chicken Nuggets,32500,9,1,29300,500,FALSE,500
+Eastern Chicken Masala,7000,7,3,6500,100,FALSE,100
+Ching's Chicken Chilli Masala,1000,0,6,1000,20,FALSE,20
+Fresh Chicken Whole Leg - Skinless (Halal),16500,4,1,15700,500,FALSE,500
+Ceres Foods Fish Mustard Instant Liquid Masala,22000,50,6,11000,200,FALSE,200
+TGFC Tilapia Curry Cut,25900,43,1,14700,500,FALSE,500
+Godrej Yummiez Chicken Lucknowi Seekh Kebab,26000,10,4,23400,400,FALSE,400
+Godrej Real Good Marinated Hot & Grill Chicken,24500,9,2,22100,450,FALSE,450
+Everest Meat Masala Powder,7400,9,3,6700,100,FALSE,100
+Suguna Heart- Omega3,7200,13,4,6200,348,FALSE,6
+Everest Powder - Egg Curry Masala,4000,2,6,3900,50,FALSE,50
+TGFC Chicken Boneless Fresh Whole,26100,14,1,22200,500,FALSE,500
+Zorabian Chicken Smoked Ham,20500,5,1,19400,250,FALSE,250
+Suguna Fit Egg,12000,43,4,6800,348,FALSE,6
+Everest Tandoori Chicken Masala,3900,2,5,3800,50,FALSE,50
+Godrej Yummiez Chilli Chicken Sausages ,16000,10,3,14400,250,FALSE,250
+Godrej Yummiez Chicken Punjabi Tikka ,29500,9,6,26600,360,FALSE,360
+Eastern Fish Masala,4800,2,5,4700,100,FALSE,100
+TGFC Catla Bengali Cut,29000,29,1,20400,500,FALSE,500
+Godrej Real Good Chicken Leg Boneless,27500,9,3,24800,450,FALSE,450
+TGFC Rohu Bengali Cut,24900,28,1,17900,500,FALSE,500
+Godrej Real Good Chicken Lollypop,17500,9,1,15800,580,FALSE,10
+Godrej Real Good Chicken Liver Sealed ,7500,9,1,6800,200,FALSE,200
+Everest Tandoori Chicken Masala,7400,9,3,6700,100,FALSE,100
+Fresh Mutton Mince - Kheema (Halal),51500,3,1,49500,500,FALSE,500
+Fresh Mutton Curry Cut Cubes (Halal),46500,4,1,44200,500,FALSE,500
+Ceres Foods Laal Maas Instant Liquid Masala,22000,50,5,11000,200,FALSE,200
+Godrej Real Good Chicken Legs ,21000,10,1,18900,116,FALSE,2
+Yummiez Chicken Breakfast Sausages,15000,0,3,15000,250,FALSE,250
+TGFC Basa Fillets,32900,24,1,24700,500,FALSE,500
+Zorabian Chicken Legs Skinless,21000,0,1,21000,450,FALSE,450
+Ceres Foods Nalli Nihari Instant Liquid Masala,22000,50,6,11000,200,FALSE,200
+Yummiez Chicken Garlic Fingers Pouch,25000,0,5,25000,400,FALSE,400
+Suhana Spice Mix - Chicken Biryani,6600,0,6,6600,50,FALSE,50
+Suguna Nourish Egg,6200,0,0,6200,696,TRUE,12
+Fresh Chicken Curry Cut - Skinless (Halal),14000,0,0,14000,500,TRUE,500
+Zorabian Chicken Breast Boneless ,14500,0,0,14500,450,TRUE,450
+Zorabian Chicken Kheema Parathas,19000,0,0,19000,300,TRUE,300
+Fresh Chicken Mince - Kheema (Halal),21500,5,0,20400,500,TRUE,500
+Godrej Real Good Chicken Boneless Cubes ,27500,9,0,24800,450,TRUE,450
+Suguna Vitamin D Egg,7500,17,0,6200,348,TRUE,6
+Suguna Nourish Egg ,7200,16,0,6000,348,TRUE,6
+Zorabian Chicken Mince,25000,0,0,25000,450,TRUE,450
+Zorabian Chicken Leg Boneless ,25000,0,0,25000,450,TRUE,450
+Godrej Yummiez Chicken Breakfast Salami,15000,4,0,14300,250,TRUE,250
+Zorabian Chicken Cubes,27000,0,0,27000,500,TRUE,500

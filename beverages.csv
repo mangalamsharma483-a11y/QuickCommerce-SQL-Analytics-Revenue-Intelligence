@@ -1,0 +1,130 @@
+﻿name,mrp,discountPercent,availableQuantity,discountedSellingPrice,weightInGms,outOfStock,quantity
+Mother Dairy Toned Milk Pouch,2500,0,4,2500,500,FALSE,500
+Mother Dairy Classic Curd,3000,3,6,2900,400,FALSE,400
+Mother Dairy Ultra Full Cream Milk,3100,0,4,3100,500,FALSE,500
+Amul Butter - Pasteurised,5000,2,6,4900,100,FALSE,100
+Britannia Sandwich White Bread,3300,0,4,3300,350,FALSE,350
+iD Curd Pouch,3500,2,6,3400,400,FALSE,400
+iD Idli & Dosa Batter ,8000,15,6,6800,1000,FALSE,1
+Britannia 100% Whole Wheat Bread,4500,0,4,4500,450,FALSE,450
+Britannia Healthy Slice Sandwich Bread,4000,0,4,4000,450,FALSE,450
+Gowardhan Classic Block Fresh Paneer,8900,8,6,8100,200,FALSE,200
+Amul Processed Cheese Cubes,10600,4,6,10100,200,FALSE,200
+Britannia Pav,2200,0,4,2200,250,FALSE,250
+Amul Butter - Pasteurised,24500,2,6,24000,500,FALSE,500
+Arden Eggs White,9700,0,4,9700,696,FALSE,12
+Arden Eggs White,6500,15,4,5500,348,FALSE,6
+Nestle A+ Nourish Dahi,3500,2,6,3400,200,FALSE,200
+Britannia Burger Bun with Sesame Seed,1500,0,4,1500,100,FALSE,100
+Amul Frozen Malai Paneer,7500,2,6,7300,200,FALSE,200
+iD Natural Paneer,10500,5,6,9900,200,FALSE,200
+Britannia Fruit Bun,1700,0,3,1700,100,FALSE,100
+Amul Cheese - Processed Slices,12200,1,6,12000,200,FALSE,200
+iD Curd Cup,6000,0,6,6000,400,FALSE,400
+The Bake Shop Premium White Sandwich Bread,3000,0,1,3000,400,FALSE,400
+Britannia Multigrain Bread ,5500,0,4,5500,400,FALSE,400
+Amul Processed Cheese Block,10600,0,6,10600,200,FALSE,200
+Nestle A+ Nourish Dahi,7000,2,6,6800,400,FALSE,400
+Arden Eggs Brown,8500,7,4,7900,348,FALSE,6
+Epigamia Misti Doi,3000,0,6,3000,85,FALSE,85
+Amul Cheese - Block,24500,2,6,24000,500,FALSE,500
+Amul Butter - Pasteurised (School Pack),5900,3,6,5700,100,FALSE,100
+Britannia Brown Bread ,4200,0,4,4200,400,FALSE,400
+Amul Fresh Cream,19700,3,3,19100,1000,FALSE,1
+Epigamia Natural Greek Yogurt,4500,0,6,4500,90,FALSE,90
+The Bake Shop Pizza Base,3000,0,1,3000,150,FALSE,150
+Amul Delicious Fat Spread - Cholesterol Free,1800,5,6,1700,100,FALSE,100
+D'lecta Dairy Cream,5400,5,6,5100,200,FALSE,200
+Nestle A+ Actiplus Probiotic Dahi Plain Curd,7800,3,5,7500,400,FALSE,400
+Bio Nutrients Pure Diet Tofu Gold ,6000,5,5,5700,200,FALSE,200
+Amul Delicious Fat Spread - Cholesterol Free,8800,2,2,8600,500,FALSE,500
+Amul Mithai Mate Condensed Sweetened Milk,5600,3,4,5400,200,FALSE,200
+Arden Desi Eggs,11000,13,4,9500,348,FALSE,6
+Amul Cheese - Pepper,8500,3,6,8200,200,FALSE,200
+Amul Cheese Spread Creamy,8500,5,6,8000,180,FALSE,180
+The Bake Shop Foot Long,4000,0,1,4000,200,FALSE,200
+Amul Cheese Slices,36000,0,1,35900,750,FALSE,750
+Suguna Sharp Egg ,7200,13,3,6200,348,FALSE,6
+Amul Cheese Sauce Mexican Salsa,7500,4,1,7200,200,FALSE,200
+Nestle Everyday Dairy Whitener,21000,0,4,21000,400,FALSE,400
+Amul Pizza Cheese Processed,10900,4,6,10400,200,FALSE,200
+Betty Crocker Complete Pancake Mix Original,11000,4,6,10500,250,FALSE,500
+Amul Lite Spread,4000,2,5,3900,100,FALSE,100
+Go Cheese Slice - Plain,14000,5,6,13300,200,FALSE,200
+Pillsbury Choco Chip Pancake Mix,9900,5,6,9400,165,FALSE,165
+RRO Sour Cream,27500,50,4,13700,200,FALSE,200
+D'lecta Natural Feta Cheese Block,10000,5,4,9500,100,FALSE,100
+Suguna Active - DHA,7200,13,4,6200,348,FALSE,6
+Go Cheese Processed Angles Plain,10000,5,6,9500,160,FALSE,160
+Epigamia Greek Yogurt - Natural,20000,0,1,20000,400,FALSE,400
+Amul Unsalted Cooking Butter,24500,2,6,23800,500,FALSE,500
+The Whole Truth Dark Chocolate Peanut Butter - Creamy,23500,25,6,17400,325,FALSE,325
+The Laughing Cow Cheese Slices,15500,0,2,15500,200,FALSE,200
+Epigamia Almond Milk Unsweetened Dairy Free,30000,33,4,19900,1000,FALSE,1
+Go Cheese  Spread Plain,9900,5,6,9400,200,FALSE,200
+So Good Almond Milk - Natural Unsweetened,7000,0,4,7000,200,FALSE,200
+Amul Cheese Sauce Jalapeno,7500,0,5,7500,200,FALSE,200
+D'lecta Cream Cheese,16900,4,4,16100,150,FALSE,150
+Dlecta Natural Cheddar Slices,19900,5,6,18900,200,FALSE,200
+Suguna Heart- Omega3,7200,13,4,6200,348,FALSE,6
+Go Cheese Spread - Garlic,9900,5,6,9400,200,FALSE,200
+Go Pizza Cheese,14000,5,6,13300,200,FALSE,200
+RRO Cheddar Block Cheese,29500,50,6,14700,200,FALSE,200
+The Whole Truth Peanut Butter With Dates - Creamy No Sugar,21500,9,6,19400,325,FALSE,325
+Suguna Fit Egg,12000,43,4,6800,348,FALSE,6
+Pantai Coconut Cream,15000,4,4,14300,400,FALSE,400
+RRO Fresh Ricotta,27500,50,6,13700,200,FALSE,200
+Dlecta Cheese Cubes 2,14500,5,6,13700,200,FALSE,200
+RRO Mozzarella Pizza Cheese,27500,50,6,13700,200,FALSE,200
+The Laughing Cow Cheese Cubes,15000,0,4,15000,200,FALSE,200
+Yogabar 100% Pure Peanut Butter Creamy & Yummy Unsweetened,22900,10,6,20600,400,FALSE,400
+RRO Burrata Cheese,25000,50,4,12500,200,FALSE,200
+The Whole Truth Dark Chocolate Peanut Butter - Crunchy,23500,20,5,18800,325,FALSE,325
+Go Cheese Processed Squares,12500,5,6,11800,200,FALSE,200
+Funfoods Peanut Butter Crunchy,16900,7,1,15600,400,FALSE,400
+Amul Safed Makkhan,23500,1,6,23200,500,FALSE,500
+Go Cheese Spread - Four Pepper (Soft & Creamy),9900,5,6,9400,200,FALSE,200
+Dlicia Whip Topping Bottle,23500,27,5,17100,1000,FALSE,1
+Amulya Dairy Whitener ,38000,2,4,37200,1000,FALSE,1
+Laughing Cow Cheese 8 Portion 120Gm Imported,11000,0,6,11000,120,FALSE,120
+The Whole Truth Peanut Butter - Sweetened & Crunchy,21500,20,6,17200,325,FALSE,325
+Go Processed Cheese Block,12500,4,6,11900,200,FALSE,200
+Go Cheese Processed Block,24900,4,6,23700,400,FALSE,400
+RRO Goat Milk Fetta Cheee,34500,31,6,23700,100,FALSE,100
+RRO Mascarpone Cheese,35500,50,6,17700,200,FALSE,200
+D'lecta Cheddar Cheese,19900,5,6,18900,200,FALSE,200
+Funfoods Peanut Butter Creamy,16900,0,1,16900,400,FALSE,400
+Pantai Coconut Milk,15000,0,4,15000,400,FALSE,400
+Dlecta Cheese Block,14500,0,6,14500,200,FALSE,200
+President Butter - Salted,5400,0,6,5400,100,FALSE,100
+The Laughing Cow Plain Processed Cheese Block,15000,0,6,15000,200,FALSE,200
+Yoga Bar Peanut Butter Dark Chocolate Jar,24900,0,4,24900,400,FALSE,400
+The Laughing Cow Cheese Spread Plain,11000,0,6,11000,180,FALSE,180
+Amul Malai Paneer Fresh ,7600,3,0,7300,200,TRUE,200
+Amul Taaza Toned Homogenised Milk,6600,3,0,6400,1000,TRUE,1
+Amul Fresh Cream,6300,0,0,6300,250,TRUE,250
+Amul Lactose Free Milk,2500,4,0,2400,250,TRUE,250
+The Bake Shop Whole Wheat Bread,4000,0,0,4000,400,TRUE,400
+Amul Slim Trim Skimmed Milk,7500,0,0,7500,1000,TRUE,1
+Amul Cheese Slices,7100,1,0,7000,100,TRUE,100
+Amul Pizza Cheese - Mozzarella,10000,1,0,9900,200,TRUE,200
+The Bake Shop Pizza Base Whole Wheat,3000,0,0,3000,150,TRUE,150
+Nestle A+ Slim Dahi - Low Fat,7800,3,0,7500,400,TRUE,400
+Britannia Cheese Garlic Bread,3500,0,0,3500,300,TRUE,300
+The Bake Shop Whole Wheat Ladi Pav,4000,0,0,4000,200,TRUE,200
+Amul Cheese Spread Yummy Plain,8500,0,0,8500,200,TRUE,200
+Britannia Atta Kulcha,3000,0,0,3000,250,TRUE,250
+Suguna Nourish Egg,6200,0,0,6200,696,TRUE,12
+The Bake Shop Multi Grain Bread,6500,0,0,6500,400,TRUE,400
+Nestle A+ Slim Milk,8900,0,0,8900,1000,TRUE,1
+Go Cheese Pizza Blend Mozzarella + Cheddar,12500,5,0,11800,200,TRUE,200
+The Whole Truth Peanut Butter - Unsweetened & Crunchy,18500,20,0,14800,325,TRUE,325
+Amul Cheese Spread Spicy Garlic,8500,3,0,8200,200,TRUE,200
+The Bake Shop Burger Buns,2000,0,0,2000,100,TRUE,100
+D'lecta Shredded Mozzarella Cheese,10000,5,0,9500,140,TRUE,140
+Britannia Burger Bun with Sesame Seed,3000,0,0,3000,200,TRUE,200
+Suguna Vitamin D Egg,7500,17,0,6200,348,TRUE,6
+Pillsbury Pancake Mix - Funfetti,9900,11,0,8800,162,TRUE,162
+Prabhat Malai Paneer Pouch,8000,0,0,8000,200,TRUE,200
+Suguna Nourish Egg ,7200,16,0,6000,348,TRUE,6
+RRO Mozzarella Block Cheese,29500,50,0,14700,200,TRUE,200
